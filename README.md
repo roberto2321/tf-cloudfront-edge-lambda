@@ -1,7 +1,6 @@
 # tf-cloudfront-edge-lambda
 
 CloudFront with Lambda@Edge using Terraform
-This is the source code developed through the course of the "{Blog Post Name}" post series[Link here to the post].
 
 ## Overview
 
